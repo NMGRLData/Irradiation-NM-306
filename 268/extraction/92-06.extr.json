@@ -1,0 +1,34 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 30.0,
+    "commit": "1c4fbf49053eda393e8a3e40a4ae822c479dcf02",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 2.25,
+    "grain_polygons": [
+        "c2xXOFRwcFpCVUlnQURnQUh3QTVBQjhBT2dBZUFEc0FId0E4QUI4QVBRQWZBRDRBSUFBL0FDQUFRQUFoQUVFQUlRQkNBQ0lBUXdBaUFFUUFJd0JGQUNRQVJnQWxBRWNBSmdCSUFDY0FTQUFvQUVnQUtRQklBQ29BU0FBckFFZ0FMQUJJQUMwQVNBQXVBRWdBTHdCSEFEQUFSd0F4QUVjQU1nQkhBRE1BUmdBMEFFVUFOQUJFQURRQVF3QTBBRUlBTkFCQkFEUUFRQUF6QUQ4QU13QStBRElBUFFBeEFEd0FNQUE3QUM4QU9nQXVBRGtBTFFBNEFDd0FPQUFyQURnQUtnQTRBQ2tBT0FBb0FEa0FKd0E1QUNZQU9RQWxBRGtBSkFBNUFDTUFPUUFpQURnQUlRQTRBQT09"
+    ],
+    "light_value": 0,
+    "load_holder": "221-hole",
+    "load_name": "C0106",
+    "measured_response": null,
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 42,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "221-hole",
+    "videos": [],
+    "weight": 0
+}
