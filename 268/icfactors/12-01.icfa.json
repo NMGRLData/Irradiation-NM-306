@@ -1,6 +1,6 @@
 {
     "AX": {
-        "error": 4.4347589435228194e-05,
+        "error": 7.978196765096511e-05,
         "fit": "Weighted Mean",
         "references": [
             {
@@ -59,7 +59,7 @@
                 "uuid": "74a59185-6855-45b3-894d-2a2fb47c8ca3"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-03-J-1208",
                 "uuid": "3b44bd24-2304-4ab8-a5d5-decfee293812"
             },
@@ -79,13 +79,14 @@
                 "uuid": "4e8e321e-09d1-42e2-b752-3e7dbf06f763"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-03-J-1212",
                 "uuid": "32948c7d-0e5c-4cdb-b802-25f551b72397"
             }
         ],
         "reviewed": true,
-        "value": 1.0013010590906621
+        "standard_ratio": 6.600975,
+        "value": 0.999909175534528
     },
     "CDD": {
         "error": 0.0006484829651226734,
